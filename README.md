@@ -4,7 +4,6 @@
 
 - Meu nome é Jéssica;
 - Estudo no Colégio Estadual Carlos Zewe Coimbra, PR;
-- Minha linguagem de programação favorita é o Scratch;
 - Meu idioma é o português BR;
 - @jessica.vitorassi@escola.pr.gov.br ;
 
